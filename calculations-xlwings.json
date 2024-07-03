@@ -1,0 +1,342 @@
+{
+  "Iteration 1": {
+    "item 1.1": {
+      "value": 2174.612,
+      "unit": null
+    },
+    "item 1.2": {
+      "value": 5.6063,
+      "unit": null
+    },
+    "item 1.3": {
+      "value": 459.4276,
+      "unit": null
+    },
+    "item 2.1": {
+      "value": 9.0197,
+      "unit": null
+    },
+    "item 2.2": {
+      "value": 0.0473,
+      "unit": null
+    },
+    "item 2.3": {
+      "value": 14.0801,
+      "unit": null
+    },
+    "item 1.1 x item 1.2": {
+      "value": 12191.4833,
+      "unit": null
+    },
+    "item 1.3 + item 2.3": {
+      "value": 473.5078,
+      "unit": null
+    }
+  },
+  "Iteration 2": {
+    "item 1.1": {
+      "value": 2170.568,
+      "unit": null
+    },
+    "item 1.2": {
+      "value": 5.7569,
+      "unit": null
+    },
+    "item 1.3": {
+      "value": 457.1874,
+      "unit": null
+    },
+    "item 2.1": {
+      "value": 9.3784,
+      "unit": null
+    },
+    "item 2.2": {
+      "value": 0.048,
+      "unit": null
+    },
+    "item 2.3": {
+      "value": 13.4313,
+      "unit": null
+    },
+    "item 1.1 x item 1.2": {
+      "value": 12495.6809,
+      "unit": null
+    },
+    "item 1.3 + item 2.3": {
+      "value": 470.6187,
+      "unit": null
+    }
+  },
+  "Iteration 3": {
+    "item 1.1": {
+      "value": 2062.6999,
+      "unit": null
+    },
+    "item 1.2": {
+      "value": 5.9634,
+      "unit": null
+    },
+    "item 1.3": {
+      "value": 476.5028,
+      "unit": null
+    },
+    "item 2.1": {
+      "value": 9.0024,
+      "unit": null
+    },
+    "item 2.2": {
+      "value": 0.0466,
+      "unit": null
+    },
+    "item 2.3": {
+      "value": 13.6102,
+      "unit": null
+    },
+    "item 1.1 x item 1.2": {
+      "value": 12300.7544,
+      "unit": null
+    },
+    "item 1.3 + item 2.3": {
+      "value": 490.113,
+      "unit": null
+    }
+  },
+  "Iteration 4": {
+    "item 1.1": {
+      "value": 2162.1592,
+      "unit": null
+    },
+    "item 1.2": {
+      "value": 5.8487,
+      "unit": null
+    },
+    "item 1.3": {
+      "value": 482.8938,
+      "unit": null
+    },
+    "item 2.1": {
+      "value": 8.8936,
+      "unit": null
+    },
+    "item 2.2": {
+      "value": 0.0449,
+      "unit": null
+    },
+    "item 2.3": {
+      "value": 13.1314,
+      "unit": null
+    },
+    "item 1.1 x item 1.2": {
+      "value": 12645.8758,
+      "unit": null
+    },
+    "item 1.3 + item 2.3": {
+      "value": 496.0252,
+      "unit": null
+    }
+  },
+  "Iteration 5": {
+    "item 1.1": {
+      "value": 2268.6076,
+      "unit": null
+    },
+    "item 1.2": {
+      "value": 5.6916,
+      "unit": null
+    },
+    "item 1.3": {
+      "value": 467.6829,
+      "unit": null
+    },
+    "item 2.1": {
+      "value": 8.5236,
+      "unit": null
+    },
+    "item 2.2": {
+      "value": 0.044,
+      "unit": null
+    },
+    "item 2.3": {
+      "value": 12.5086,
+      "unit": null
+    },
+    "item 1.1 x item 1.2": {
+      "value": 12911.9683,
+      "unit": null
+    },
+    "item 1.3 + item 2.3": {
+      "value": 480.1916,
+      "unit": null
+    }
+  },
+  "Iteration 6": {
+    "item 1.1": {
+      "value": 2349.4814,
+      "unit": null
+    },
+    "item 1.2": {
+      "value": 5.7521,
+      "unit": null
+    },
+    "item 1.3": {
+      "value": 486.6041,
+      "unit": null
+    },
+    "item 2.1": {
+      "value": 8.8521,
+      "unit": null
+    },
+    "item 2.2": {
+      "value": 0.0433,
+      "unit": null
+    },
+    "item 2.3": {
+      "value": 12.6418,
+      "unit": null
+    },
+    "item 1.1 x item 1.2": {
+      "value": 13514.3658,
+      "unit": null
+    },
+    "item 1.3 + item 2.3": {
+      "value": 499.2459,
+      "unit": null
+    }
+  },
+  "Iteration 7": {
+    "item 1.1": {
+      "value": 2334.4959,
+      "unit": null
+    },
+    "item 1.2": {
+      "value": 5.6328,
+      "unit": null
+    },
+    "item 1.3": {
+      "value": 486.8205,
+      "unit": null
+    },
+    "item 2.1": {
+      "value": 8.9655,
+      "unit": null
+    },
+    "item 2.2": {
+      "value": 0.0414,
+      "unit": null
+    },
+    "item 2.3": {
+      "value": 12.4212,
+      "unit": null
+    },
+    "item 1.1 x item 1.2": {
+      "value": 13149.8034,
+      "unit": null
+    },
+    "item 1.3 + item 2.3": {
+      "value": 499.2417,
+      "unit": null
+    }
+  },
+  "Iteration 8": {
+    "item 1.1": {
+      "value": 2289.7799,
+      "unit": null
+    },
+    "item 1.2": {
+      "value": 5.5361,
+      "unit": null
+    },
+    "item 1.3": {
+      "value": 464.5741,
+      "unit": null
+    },
+    "item 2.1": {
+      "value": 9.046,
+      "unit": null
+    },
+    "item 2.2": {
+      "value": 0.0412,
+      "unit": null
+    },
+    "item 2.3": {
+      "value": 11.9815,
+      "unit": null
+    },
+    "item 1.1 x item 1.2": {
+      "value": 12676.3947,
+      "unit": null
+    },
+    "item 1.3 + item 2.3": {
+      "value": 476.5556,
+      "unit": null
+    }
+  },
+  "Iteration 9": {
+    "item 1.1": {
+      "value": 2249.6919,
+      "unit": null
+    },
+    "item 1.2": {
+      "value": 5.4952,
+      "unit": null
+    },
+    "item 1.3": {
+      "value": 464.788,
+      "unit": null
+    },
+    "item 2.1": {
+      "value": 9.4231,
+      "unit": null
+    },
+    "item 2.2": {
+      "value": 0.0409,
+      "unit": null
+    },
+    "item 2.3": {
+      "value": 11.983,
+      "unit": null
+    },
+    "item 1.1 x item 1.2": {
+      "value": 12362.5313,
+      "unit": null
+    },
+    "item 1.3 + item 2.3": {
+      "value": 476.771,
+      "unit": null
+    }
+  },
+  "Iteration 10": {
+    "item 1.1": {
+      "value": 2290.1666,
+      "unit": null
+    },
+    "item 1.2": {
+      "value": 5.4407,
+      "unit": null
+    },
+    "item 1.3": {
+      "value": 447.2749,
+      "unit": null
+    },
+    "item 2.1": {
+      "value": 9.7397,
+      "unit": null
+    },
+    "item 2.2": {
+      "value": 0.0417,
+      "unit": null
+    },
+    "item 2.3": {
+      "value": 12.1739,
+      "unit": null
+    },
+    "item 1.1 x item 1.2": {
+      "value": 12460.1397,
+      "unit": null
+    },
+    "item 1.3 + item 2.3": {
+      "value": 459.4487,
+      "unit": null
+    }
+  }
+}
